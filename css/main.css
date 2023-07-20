@@ -25,6 +25,22 @@
   color: #fff;
 }
 
+.emociones-header {
+  background: url(../img/emociones-2.jpg); /* FONDO */
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: #fff;
+}
+
+.gestion-header {
+  background: url(../img/gestionar-conflicto.jpg); /* FONDO */
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: #fff;
+}
+
 html {
   scroll-behavior: smooth;
 }
